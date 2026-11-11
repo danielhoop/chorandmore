@@ -1,0 +1,2708 @@
+﻿[
+    {
+        "name":  "CH Medley",
+        "filename":  "Ch Medley Noten W High Pdf.pdf",
+        "voices":  [
+                       {
+                           "voice":  "choir",
+                           "path":  "files\\Ch Medley 01 00 Choir Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "me",
+                           "path":  "files\\Ch Medley 01 01 Men Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_lo",
+                           "path":  "files\\Ch Medley 01 02 Women Low Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_mi",
+                           "path":  "files\\Ch Medley 01 03 Women Mid Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_hi",
+                           "path":  "files\\Ch Medley 01 04 Women High Mp 3.mp3"
+                       }
+                   ],
+        "songs":  [
+                      {
+                          "start":  "0:00",
+                          "name":  "Giggerig",
+                          "artist":  "Polo Hofer \u0026 Die Schmetterband",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-01-giggerig-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-01-giggerig-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-01-giggerig-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-01-giggerig-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-01-giggerig-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "8e1f6df3-32ff-44e1-a308-7026bf321f43",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Giggerig%20Polo%20Hofer%20%26%20Die%20Schmetterband",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Giggerig%20Polo%20Hofer%20%26%20Die%20Schmetterband",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "0:25",
+                          "name":  "Kiosk",
+                          "artist":  "Rumpelstilz",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-02-kiosk-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-02-kiosk-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-02-kiosk-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-02-kiosk-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-02-kiosk-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "ab971622-5d71-42df-9d6a-c31238817f92",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Kiosk%20Rumpelstilz",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Kiosk%20Rumpelstilz",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "0:46",
+                          "name":  "079",
+                          "artist":  "Lo \u0026 Leduc",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-03-079-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-03-079-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-03-079-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-03-079-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-03-079-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "afb2eac5-4e17-436b-91fe-044e096b9794",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=079%20Lo%20%26%20Leduc",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/079%20Lo%20%26%20Leduc",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "1:32",
+                          "name":  "Alperose",
+                          "artist":  "Polo Hofer \u0026 Die Schmetterband",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-04-alperose-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-04-alperose-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-04-alperose-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-04-alperose-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-04-alperose-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "d1b79550-d4ed-4707-a88d-c1fe73626d1d",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Alperose%20Polo%20Hofer%20%26%20Die%20Schmetterband",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Alperose%20Polo%20Hofer%20%26%20Die%20Schmetterband",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "2:39",
+                          "name":  "Heimweh",
+                          "artist":  "Plüsch",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-05-heimweh-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-05-heimweh-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-05-heimweh-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-05-heimweh-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-05-heimweh-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "95c7820d-89ef-4d07-bf13-4a952887c20d",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Heimweh%20Pl%C3%83%C2%BCsch",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Heimweh%20Pl%C3%83%C2%BCsch",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "3:51",
+                          "name":  "C\u0027est La Vie",
+                          "artist":  "UNKNOWN",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-06-c-est-la-vie-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-06-c-est-la-vie-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-06-c-est-la-vie-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-06-c-est-la-vie-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-06-c-est-la-vie-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "21e1c072-6605-4b91-a63f-466ca827a6af",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=C\u0027est%20La%20Vie",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/C\u0027est%20La%20Vie",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "4:54",
+                          "name":  "Pasta",
+                          "artist":  "UNKNOWN",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-07-pasta-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-07-pasta-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-07-pasta-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-07-pasta-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-07-pasta-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "d42954d9-69cd-4589-ae03-ba557f160507",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Pasta",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Pasta",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "5:47",
+                          "name":  "Berge Versetze",
+                          "artist":  "BLAY (Bligg \u0026 Marc Sway)",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-08-berge-versetze-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-08-berge-versetze-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-08-berge-versetze-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-08-berge-versetze-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-08-berge-versetze-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "413c9c47-a1d7-4631-8afa-362e523bcb3f",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Berge%20Versetze%20BLAY%20(Bligg%20%26%20Marc%20Sway)",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Berge%20Versetze%20BLAY%20(Bligg%20%26%20Marc%20Sway)",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "6:50",
+                          "name":  "Chum Bring En Hei",
+                          "artist":  "Baschi",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/ch-medley-09-chum-bring-en-hei-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/ch-medley-09-chum-bring-en-hei-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/ch-medley-09-chum-bring-en-hei-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/ch-medley-09-chum-bring-en-hei-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/ch-medley-09-chum-bring-en-hei-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "af6ad984-1b11-4af5-ae86-260f419454b2",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Chum%20Bring%20En%20Hei%20Baschi",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Chum%20Bring%20En%20Hei%20Baschi",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      }
+                  ]
+    },
+    {
+        "name":  "Medley 09",
+        "filename":  "Medley 09 Noten Women High Pdf.pdf",
+        "voices":  [
+                       {
+                           "voice":  "choir",
+                           "path":  "files\\Medley 09 00 Choir Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "me",
+                           "path":  "files\\Medley 09 01 Men Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_lo",
+                           "path":  "files\\Medley 09 02 Women Low Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_mi",
+                           "path":  "files\\Medley 09 03 Women Mid Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_hi",
+                           "path":  "files\\Medley 09 04 Women High Mp 3.mp3"
+                       }
+                   ],
+        "songs":  [
+                      {
+                          "start":  "0:00",
+                          "name":  "Trashin\u0027 the Camp",
+                          "artist":  "*NSYNC feat. Phil Collins",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-01-trashin-the-camp-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-01-trashin-the-camp-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-01-trashin-the-camp-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-01-trashin-the-camp-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-01-trashin-the-camp-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "096b4f27-7b91-4eed-a9e3-565480298b1b",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Trashin\u0027%20the%20Camp%20*NSYNC%20feat.%20Phil%20Collins",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Trashin\u0027%20the%20Camp%20*NSYNC%20feat.%20Phil%20Collins",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "0:52",
+                          "name":  "Barbara Ann",
+                          "artist":  "The Beach Boys",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-02-barbara-ann-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-02-barbara-ann-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-02-barbara-ann-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-02-barbara-ann-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-02-barbara-ann-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "b0cfe625-b582-4dfd-a23f-e449ce262538",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Barbara%20Ann%20The%20Beach%20Boys",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Barbara%20Ann%20The%20Beach%20Boys",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "2:00",
+                          "name":  "How Deep Is Your Love",
+                          "artist":  "Bee Gees",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-03-how-deep-is-your-love-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-03-how-deep-is-your-love-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-03-how-deep-is-your-love-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-03-how-deep-is-your-love-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-03-how-deep-is-your-love-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "caaed78b-09bc-420c-8410-dc40ed8115ee",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=How%20Deep%20Is%20Your%20Love%20Bee%20Gees",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/How%20Deep%20Is%20Your%20Love%20Bee%20Gees",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "3:12",
+                          "name":  "SOS",
+                          "artist":  "ABBA",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-04-sos-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-04-sos-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-04-sos-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-04-sos-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-04-sos-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "a1557af8-1ee8-4d34-bbb2-7f9e72bacc92",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=SOS%20ABBA",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/SOS%20ABBA",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "4:00",
+                          "name":  "Gimme! Gimme!",
+                          "artist":  "ABBA",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-05-gimme-gimme-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-05-gimme-gimme-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-05-gimme-gimme-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-05-gimme-gimme-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-05-gimme-gimme-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "710f07b5-535e-4955-8fc2-7e30de3e7abb",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Gimme!%20Gimme!%20ABBA",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Gimme!%20Gimme!%20ABBA",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "4:28",
+                          "name":  "Dancing Queen",
+                          "artist":  "ABBA",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-06-dancing-queen-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-06-dancing-queen-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-06-dancing-queen-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-06-dancing-queen-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-06-dancing-queen-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "f4fc6ef0-494b-40e6-bb77-7dfc6479e3ed",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Dancing%20Queen%20ABBA",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Dancing%20Queen%20ABBA",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "5:10",
+                          "name":  "Celebration",
+                          "artist":  "Kool \u0026 The Gang",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-07-celebration-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-07-celebration-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-07-celebration-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-07-celebration-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-07-celebration-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "44f733f5-680e-4d17-8ca3-c8e499555af3",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Celebration%20Kool%20%26%20The%20Gang",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Celebration%20Kool%20%26%20The%20Gang",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "6:04",
+                          "name":  "Make You Feel My Love",
+                          "artist":  "Bob Dylan",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-08-make-you-feel-my-love-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-08-make-you-feel-my-love-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-08-make-you-feel-my-love-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-08-make-you-feel-my-love-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-08-make-you-feel-my-love-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "546a3853-e3c2-45d5-b8a9-731ddd17d8ff",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Make%20You%20Feel%20My%20Love%20Bob%20Dylan",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Make%20You%20Feel%20My%20Love%20Bob%20Dylan",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "7:00",
+                          "name":  "Various Hooklines",
+                          "exclude":  true,
+                          "artist":  "UNKNOWN",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-09-various-hooklines-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-09-various-hooklines-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-09-various-hooklines-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-09-various-hooklines-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-09-various-hooklines-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "66a8d98f-d75c-4321-9652-c75c9d6d154b",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Various%20Hooklines",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Various%20Hooklines",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "7:30",
+                          "name":  "The Final Countdown",
+                          "artist":  "Europe",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-09-10-the-final-countdown-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-09-10-the-final-countdown-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-09-10-the-final-countdown-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-09-10-the-final-countdown-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-09-10-the-final-countdown-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "49a31d72-087a-4174-adb2-d7e7e4a49a56",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=The%20Final%20Countdown%20Europe",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/The%20Final%20Countdown%20Europe",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      }
+                  ]
+    },
+    {
+        "name":  "Medley 1",
+        "filename":  "Medley 1 Noten Women High Pdf.pdf",
+        "voices":  [
+                       {
+                           "voice":  "choir",
+                           "path":  "files\\Medley 1 Choir Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "me",
+                           "path":  "files\\Medley 1 Men Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_hi",
+                           "path":  "files\\Medley 1 Women High Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_lo",
+                           "path":  "files\\Medley 1 Women Low Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_mi",
+                           "path":  "files\\Medley 1 Women Mid Mp 3.mp3"
+                       }
+                   ],
+        "songs":  [
+                      {
+                          "start":  "0:00",
+                          "name":  "Lean On Me",
+                          "artist":  "Bill Withers",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-01-lean-on-me-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-01-lean-on-me-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-01-lean-on-me-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-01-lean-on-me-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-01-lean-on-me-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "c4150c7e-4a20-4379-bf69-4b4cb2e332d2",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Lean%20On%20Me%20Bill%20Withers",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Lean%20On%20Me%20Bill%20Withers",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "00:47",
+                          "name":  "All You Need Is Love",
+                          "artist":  "The Beatles",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-02-all-you-need-is-love-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-02-all-you-need-is-love-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-02-all-you-need-is-love-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-02-all-you-need-is-love-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-02-all-you-need-is-love-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "8eced830-3d1b-442b-8167-cd088dee4a5a",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=All%20You%20Need%20Is%20Love%20The%20Beatles",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/All%20You%20Need%20Is%20Love%20The%20Beatles",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "01:38",
+                          "name":  "Heal The World",
+                          "artist":  "Michael Jackson",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-03-heal-the-world-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-03-heal-the-world-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-03-heal-the-world-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-03-heal-the-world-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-03-heal-the-world-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "3f3b92e5-f705-4e6e-a341-49199f25838e",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Heal%20The%20World%20Michael%20Jackson",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Heal%20The%20World%20Michael%20Jackson",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "03:20",
+                          "name":  "Ain\u0027t No Mountain High Enough",
+                          "artist":  "Marvin Gaye \u0026 Tammi Terrell",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-04-ain-t-no-mountain-high-enough-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-04-ain-t-no-mountain-high-enough-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-04-ain-t-no-mountain-high-enough-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-04-ain-t-no-mountain-high-enough-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-04-ain-t-no-mountain-high-enough-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "1aa1bbae-fbd0-4e6a-a975-c6bf0b078dfe",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Ain\u0027t%20No%20Mountain%20High%20Enough%20Marvin%20Gaye%20%26%20Tammi%20Terrell",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Ain\u0027t%20No%20Mountain%20High%20Enough%20Marvin%20Gaye%20%26%20Tammi%20Terrell",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "04:08",
+                          "name":  "Africa",
+                          "artist":  "Toto",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-05-africa-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-05-africa-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-05-africa-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-05-africa-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-05-africa-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "51748cd9-fe5e-45a2-af95-7deb8ca8b62d",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Africa%20Toto",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Africa%20Toto",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "05:46",
+                          "name":  "Wake Me Up",
+                          "artist":  "Avicii",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-06-wake-me-up-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-06-wake-me-up-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-06-wake-me-up-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-06-wake-me-up-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-06-wake-me-up-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "d9630970-3e9d-4da8-9a79-bc49328493eb",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Wake%20Me%20Up%20Avicii",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Wake%20Me%20Up%20Avicii",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "06:50",
+                          "name":  "D\u0027W. Nuss Vo Bämpliz",
+                          "artist":  "Patent Ochsner",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-07-d-w-nuss-vo-bampliz-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-07-d-w-nuss-vo-bampliz-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-07-d-w-nuss-vo-bampliz-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-07-d-w-nuss-vo-bampliz-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-07-d-w-nuss-vo-bampliz-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "97b2a98c-a53b-42fe-90e1-50cb0e38366d",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=D\u0027W.%20Nuss%20Vo%20B%C3%83%C2%A4mpliz%20Patent%20Ochsner",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/D\u0027W.%20Nuss%20Vo%20B%C3%83%C2%A4mpliz%20Patent%20Ochsner",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "07:32",
+                          "name":  "Tage Wie Diese",
+                          "artist":  "Die Toten Hosen",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-08-tage-wie-diese-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-08-tage-wie-diese-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-08-tage-wie-diese-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-08-tage-wie-diese-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-08-tage-wie-diese-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "10c2a377-df13-4e17-abc2-bd8051ddf75e",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Tage%20Wie%20Diese%20Die%20Toten%20Hosen",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Tage%20Wie%20Diese%20Die%20Toten%20Hosen",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "08:23",
+                          "name":  "Angels",
+                          "artist":  "Robbie Williams",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-09-angels-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-09-angels-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-09-angels-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-09-angels-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-09-angels-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "94d08bd8-b687-40f6-98f3-c6be96e69ea0",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Angels%20Robbie%20Williams",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Angels%20Robbie%20Williams",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "09:00",
+                          "name":  "Hallelujah",
+                          "artist":  "Leonard Cohen",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-10-hallelujah-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-10-hallelujah-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-10-hallelujah-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-10-hallelujah-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-10-hallelujah-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "ba014da3-1af3-4cd0-a9a4-c060e3deff67",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Hallelujah%20Leonard%20Cohen",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Hallelujah%20Leonard%20Cohen",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "09:50",
+                          "name":  "Roar",
+                          "artist":  "Katy Perry",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-1-11-roar-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-1-11-roar-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-1-11-roar-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-1-11-roar-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-1-11-roar-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "d2d70d41-8b37-4f8f-afce-2df2559f8db1",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Roar%20Katy%20Perry",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Roar%20Katy%20Perry",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      }
+                  ]
+    },
+    {
+        "name":  "Medley 10",
+        "filename":  "Medley 10 Women High 2 Pdf.pdf",
+        "voices":  [
+                       {
+                           "voice":  "choir",
+                           "path":  "files\\Medley 10 00 Choir Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "me",
+                           "path":  "files\\Medley 10 01 Men Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_lo",
+                           "path":  "files\\Medley 10 02 Women Low Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_mi",
+                           "path":  "files\\Medley 10 03 Women Mid Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_hi",
+                           "path":  "files\\Medley 10 04 Women High Mp 3.mp3"
+                       }
+                   ],
+        "songs":  [
+                      {
+                          "start":  "0:00",
+                          "name":  "We Will Rock You",
+                          "artist":  "Queen",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-10-01-we-will-rock-you-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-10-01-we-will-rock-you-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-10-01-we-will-rock-you-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-10-01-we-will-rock-you-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-10-01-we-will-rock-you-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "0b72971a-fb7f-4b53-ac4d-8514f8ccad1b",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=We%20Will%20Rock%20You%20Queen",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/We%20Will%20Rock%20You%20Queen",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "1:35",
+                          "name":  "Flowers",
+                          "artist":  "Miley Cyrus",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-10-02-flowers-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-10-02-flowers-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-10-02-flowers-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-10-02-flowers-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-10-02-flowers-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "dbf0f28e-239b-4066-ba9d-cffb404fb720",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Flowers%20Miley%20Cyrus",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Flowers%20Miley%20Cyrus",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "2:45",
+                          "name":  "Dance Monkey",
+                          "artist":  "Tones and I",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-10-03-dance-monkey-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-10-03-dance-monkey-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-10-03-dance-monkey-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-10-03-dance-monkey-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-10-03-dance-monkey-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "84a7d250-86ef-429d-af10-71f442dc68b1",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Dance%20Monkey%20Tones%20and%20I",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Dance%20Monkey%20Tones%20and%20I",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "4:17",
+                          "name":  "Eye of the Tiger",
+                          "artist":  "Survivor",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-10-04-eye-of-the-tiger-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-10-04-eye-of-the-tiger-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-10-04-eye-of-the-tiger-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-10-04-eye-of-the-tiger-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-10-04-eye-of-the-tiger-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "323206b5-78ab-4fb1-b919-a88477a06fb8",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Eye%20of%20the%20Tiger%20Survivor",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Eye%20of%20the%20Tiger%20Survivor",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "5:35",
+                          "name":  "Yeah!",
+                          "artist":  "Usher feat. Lil Jon \u0026 Ludacris",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-10-05-yeah-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-10-05-yeah-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-10-05-yeah-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-10-05-yeah-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-10-05-yeah-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "fb353338-e896-4e9f-98c5-1e5868615de7",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Yeah!%20Usher%20feat.%20Lil%20Jon%20%26%20Ludacris",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Yeah!%20Usher%20feat.%20Lil%20Jon%20%26%20Ludacris",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "5:57",
+                          "name":  "Bones",
+                          "artist":  "Imagine Dragons",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-10-06-bones-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-10-06-bones-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-10-06-bones-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-10-06-bones-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-10-06-bones-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "98918ec5-724c-4356-9288-e24e5151cdd5",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Bones%20Imagine%20Dragons",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Bones%20Imagine%20Dragons",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "6:58",
+                          "name":  "New Shoes",
+                          "artist":  "Paolo Nutini",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-10-07-new-shoes-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-10-07-new-shoes-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-10-07-new-shoes-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-10-07-new-shoes-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-10-07-new-shoes-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "647d7cff-6f88-4f65-94bb-494e6e2a27e9",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=New%20Shoes%20Paolo%20Nutini",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/New%20Shoes%20Paolo%20Nutini",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "7:54",
+                          "name":  "Let\u0027s Get Loud",
+                          "artist":  "Jennifer Lopez",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-10-08-let-s-get-loud-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-10-08-let-s-get-loud-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-10-08-let-s-get-loud-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-10-08-let-s-get-loud-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-10-08-let-s-get-loud-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "5984935d-31a2-4006-8e9e-5e5010e86c0c",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Let\u0027s%20Get%20Loud%20Jennifer%20Lopez",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Let\u0027s%20Get%20Loud%20Jennifer%20Lopez",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      }
+                  ]
+    },
+    {
+        "name":  "Medley 11",
+        "filename":  "Medley 11 Women High Pdf.pdf",
+        "voices":  [
+                       {
+                           "voice":  "me",
+                           "path":  "files\\Medley 11 01 Men Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_lo",
+                           "path":  "files\\Medley 11 02 Women Low Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_mi",
+                           "path":  "files\\Medley 11 03 Women Mid Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_hi",
+                           "path":  "files\\Medley 11 04 Women High Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "choir",
+                           "path":  "files\\Medley 11 Choir Mp 3.mp3"
+                       }
+                   ],
+        "songs":  [
+                      {
+                          "start":  "0:00",
+                          "name":  "Counting Stars",
+                          "artist":  "OneRepublic",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-11-01-counting-stars-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-11-01-counting-stars-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-11-01-counting-stars-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-11-01-counting-stars-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-11-01-counting-stars-choir.m4a"
+                                                }
+                                            ],
+                          "id":  "69ab8bb9-8957-4cf2-859d-18b05d6774d8",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Counting%20Stars%20OneRepublic",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Counting%20Stars%20OneRepublic",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "1:55",
+                          "name":  "9 To 5",
+                          "artist":  "Dolly Parton",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-11-02-9-to-5-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-11-02-9-to-5-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-11-02-9-to-5-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-11-02-9-to-5-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-11-02-9-to-5-choir.m4a"
+                                                }
+                                            ],
+                          "id":  "385f803e-056e-4319-a5cf-aff64b9acb03",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=9%20To%205%20Dolly%20Parton",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/9%20To%205%20Dolly%20Parton",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "2:36",
+                          "name":  "Mama Hat Gesagt",
+                          "artist":  "SDP feat. Sido \u0026 Esther Graf",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-11-03-mama-hat-gesagt-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-11-03-mama-hat-gesagt-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-11-03-mama-hat-gesagt-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-11-03-mama-hat-gesagt-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-11-03-mama-hat-gesagt-choir.m4a"
+                                                }
+                                            ],
+                          "id":  "9891284c-3580-41e2-bae7-1453c86daecb",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Mama%20Hat%20Gesagt%20SDP%20feat.%20Sido%20%26%20Esther%20Graf",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Mama%20Hat%20Gesagt%20SDP%20feat.%20Sido%20%26%20Esther%20Graf",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "4:21",
+                          "name":  "Rewrite The Stars",
+                          "artist":  "Zac Efron \u0026 Zendaya",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-11-04-rewrite-the-stars-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-11-04-rewrite-the-stars-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-11-04-rewrite-the-stars-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-11-04-rewrite-the-stars-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-11-04-rewrite-the-stars-choir.m4a"
+                                                }
+                                            ],
+                          "id":  "6faf5497-852b-436c-8679-0b9dc57f6f6f",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Rewrite%20The%20Stars%20Zac%20Efron%20%26%20Zendaya",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Rewrite%20The%20Stars%20Zac%20Efron%20%26%20Zendaya",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "5:42",
+                          "name":  "Titanium",
+                          "artist":  "David Guetta feat. Sia",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-11-05-titanium-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-11-05-titanium-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-11-05-titanium-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-11-05-titanium-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-11-05-titanium-choir.m4a"
+                                                }
+                                            ],
+                          "id":  "a24cd9f5-8d4a-4b40-b2d1-27a13616f31e",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Titanium%20David%20Guetta%20feat.%20Sia",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Titanium%20David%20Guetta%20feat.%20Sia",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "7:04",
+                          "name":  "Sing Hallelujah",
+                          "artist":  "Dr. Alban",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-11-06-sing-hallelujah-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-11-06-sing-hallelujah-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-11-06-sing-hallelujah-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-11-06-sing-hallelujah-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-11-06-sing-hallelujah-choir.m4a"
+                                                }
+                                            ],
+                          "id":  "2cd04b93-cad9-4823-9c2f-30b61713dab9",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Sing%20Hallelujah%20Dr.%20Alban",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Sing%20Hallelujah%20Dr.%20Alban",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "7:38",
+                          "name":  "YMCA",
+                          "artist":  "Village People",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-11-07-ymca-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-11-07-ymca-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-11-07-ymca-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-11-07-ymca-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-11-07-ymca-choir.m4a"
+                                                }
+                                            ],
+                          "id":  "2ae1637a-4ecc-407d-82aa-7ceae029257e",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=YMCA%20Village%20People",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/YMCA%20Village%20People",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      }
+                  ]
+    },
+    {
+        "name":  "Medley 12",
+        "filename":  "Medley 12 Women High Pdf.pdf",
+        "voices":  [
+                       {
+                           "voice":  "choir",
+                           "path":  "files\\Medley 12 00 Choir Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "me",
+                           "path":  "files\\Medley 12 01 Men Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_lo",
+                           "path":  "files\\Medley 12 02 Women Low Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_mi",
+                           "path":  "files\\Medley 12 03 Women Mid Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_hi",
+                           "path":  "files\\Medley 12 04 Women High Mp 3.mp3"
+                       }
+                   ],
+        "songs":  [
+                      {
+                          "start":  "0:00",
+                          "name":  "Flashdance... What a Feeling",
+                          "artist":  "Irene Cara",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-01-flashdance-what-a-feeling-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-01-flashdance-what-a-feeling-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-01-flashdance-what-a-feeling-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-01-flashdance-what-a-feeling-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-01-flashdance-what-a-feeling-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "2a46c7e7-5bde-45c0-9325-ba83f32ddeec",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Flashdance...%20What%20a%20Feeling%20Irene%20Cara",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Flashdance...%20What%20a%20Feeling%20Irene%20Cara",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "1:33",
+                          "name":  "He\u0027s a Pirate",
+                          "artist":  "Klaus Badelt",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-02-he-s-a-pirate-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-02-he-s-a-pirate-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-02-he-s-a-pirate-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-02-he-s-a-pirate-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-02-he-s-a-pirate-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "5b02faa8-7288-4f34-a564-1ba662b1c301",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=He\u0027s%20a%20Pirate%20Klaus%20Badelt",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/He\u0027s%20a%20Pirate%20Klaus%20Badelt",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "2:43",
+                          "name":  "No Diggity",
+                          "artist":  "Blackstreet feat. Dr. Dre \u0026 Queen Pen",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-03-no-diggity-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-03-no-diggity-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-03-no-diggity-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-03-no-diggity-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-03-no-diggity-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "45f20189-3160-4f2f-911a-ef23c10d8d2a",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=No%20Diggity%20Blackstreet%20feat.%20Dr.%20Dre%20%26%20Queen%20Pen",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/No%20Diggity%20Blackstreet%20feat.%20Dr.%20Dre%20%26%20Queen%20Pen",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "4:09",
+                          "name":  "James Bond Theme",
+                          "artist":  "Monty Norman",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-04-james-bond-theme-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-04-james-bond-theme-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-04-james-bond-theme-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-04-james-bond-theme-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-04-james-bond-theme-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "774b881f-13a6-4ee8-8168-412af9e11946",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=James%20Bond%20Theme%20Monty%20Norman",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/James%20Bond%20Theme%20Monty%20Norman",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "4:45",
+                          "name":  "Born To Be Wild",
+                          "artist":  "Steppenwolf",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-05-born-to-be-wild-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-05-born-to-be-wild-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-05-born-to-be-wild-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-05-born-to-be-wild-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-05-born-to-be-wild-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "581dd99e-edca-4496-968b-e41f3bd76215",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Born%20To%20Be%20Wild%20Steppenwolf",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Born%20To%20Be%20Wild%20Steppenwolf",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "5:56",
+                          "name":  "(I\u0027ve Had) The Time of My Life",
+                          "artist":  "Bill Medley \u0026 Jennifer Warnes",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-06-i-ve-had-the-time-of-my-life-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-06-i-ve-had-the-time-of-my-life-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-06-i-ve-had-the-time-of-my-life-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-06-i-ve-had-the-time-of-my-life-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-06-i-ve-had-the-time-of-my-life-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "e77f76d3-1540-4f37-848f-1f84f86a01ae",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=(I\u0027ve%20Had)%20The%20Time%20of%20My%20Life%20Bill%20Medley%20%26%20Jennifer%20Warnes",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/(I\u0027ve%20Had)%20The%20Time%20of%20My%20Life%20Bill%20Medley%20%26%20Jennifer%20Warnes",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "7:29",
+                          "name":  "The Power of Love",
+                          "artist":  "Huey Lewis \u0026 The News",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-07-the-power-of-love-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-07-the-power-of-love-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-07-the-power-of-love-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-07-the-power-of-love-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-07-the-power-of-love-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "fc960eeb-bd39-45a8-8ef5-416142739e0d",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=The%20Power%20of%20Love%20Huey%20Lewis%20%26%20The%20News",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/The%20Power%20of%20Love%20Huey%20Lewis%20%26%20The%20News",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "8:17",
+                          "name":  "Star Wars",
+                          "artist":  "John Williams",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-08-star-wars-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-08-star-wars-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-08-star-wars-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-08-star-wars-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-08-star-wars-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "a2abcad6-4734-4be0-89b4-aa43a4dcc105",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Star%20Wars%20John%20Williams",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Star%20Wars%20John%20Williams",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "8:49",
+                          "name":  "Mission Impossible",
+                          "artist":  "Lalo Schifrin",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-09-mission-impossible-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-09-mission-impossible-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-09-mission-impossible-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-09-mission-impossible-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-09-mission-impossible-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "58832e6b-c8b4-4f52-8aa6-936e9047b369",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Mission%20Impossible%20Lalo%20Schifrin",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Mission%20Impossible%20Lalo%20Schifrin",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "9:34",
+                          "name":  "Danger Zone",
+                          "artist":  "Kenny Loggins",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-12-10-danger-zone-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-12-10-danger-zone-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-12-10-danger-zone-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-12-10-danger-zone-wo-mi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-12-10-danger-zone-wo-hi.m4a"
+                                                }
+                                            ],
+                          "id":  "e47d42a2-0a92-4f16-b645-833f52fbdcba",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Danger%20Zone%20Kenny%20Loggins",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Danger%20Zone%20Kenny%20Loggins",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      }
+                  ]
+    },
+    {
+        "name":  "Medley 5",
+        "filename":  "Medley 5 Noten Women High Pdf.pdf",
+        "voices":  [
+                       {
+                           "voice":  "choir",
+                           "path":  "files\\Medley 5 Choir Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "me",
+                           "path":  "files\\Medley 5 Men Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_hi",
+                           "path":  "files\\Medley 5 Women High Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_lo",
+                           "path":  "files\\Medley 5 Women Low Mp 3.mp3"
+                       },
+                       {
+                           "voice":  "wo_mi",
+                           "path":  "files\\Medley 5 Women Mid Mp 3.mp3"
+                       }
+                   ],
+        "songs":  [
+                      {
+                          "start":  "00:00",
+                          "name":  "Earth Song",
+                          "artist":  "Michael Jackson",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-01-earth-song-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-01-earth-song-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-01-earth-song-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-01-earth-song-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-01-earth-song-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "379b80da-53a1-4497-ba98-6eff404e08b7",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Earth%20Song%20Michael%20Jackson",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Earth%20Song%20Michael%20Jackson",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "02:20",
+                          "name":  "Sing!",
+                          "artist":  "Pentatonix",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-02-sing-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-02-sing-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-02-sing-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-02-sing-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-02-sing-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "8fcb131b-673c-4311-8d13-186fef9a740c",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Sing!%20Pentatonix",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Sing!%20Pentatonix",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "03:25",
+                          "name":  "La Camisa Negra",
+                          "artist":  "Juanes",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-03-la-camisa-negra-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-03-la-camisa-negra-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-03-la-camisa-negra-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-03-la-camisa-negra-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-03-la-camisa-negra-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "5efbc0fd-e9aa-41dd-8347-325ddc8ed146",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=La%20Camisa%20Negra%20Juanes",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/La%20Camisa%20Negra%20Juanes",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "04:20",
+                          "name":  "Human",
+                          "artist":  "Rag\u0027n\u0027Bone Man",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-04-human-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-04-human-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-04-human-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-04-human-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-04-human-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "b43fc00b-3663-4bd6-98bb-532b5b71c345",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Human%20Rag\u0027n\u0027Bone%20Man",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Human%20Rag\u0027n\u0027Bone%20Man",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "05:49",
+                          "name":  "Ai Se Eu Te Pego",
+                          "artist":  "Michel Teló",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-05-ai-se-eu-te-pego-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-05-ai-se-eu-te-pego-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-05-ai-se-eu-te-pego-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-05-ai-se-eu-te-pego-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-05-ai-se-eu-te-pego-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "fbfd0b32-012e-49e2-882a-7a372146b23c",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Ai%20Se%20Eu%20Te%20Pego%20Michel%20Tel%C3%83%C2%B3",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Ai%20Se%20Eu%20Te%20Pego%20Michel%20Tel%C3%83%C2%B3",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "06:09",
+                          "name":  "Sing! (Reprise)",
+                          "artist":  "Pentatonix",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-06-sing-reprise-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-06-sing-reprise-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-06-sing-reprise-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-06-sing-reprise-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-06-sing-reprise-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "b2aba166-da60-420a-b66d-92e913bcca61",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Sing!%20(Reprise)%20Pentatonix",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Sing!%20(Reprise)%20Pentatonix",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "06:36",
+                          "name":  "Can\u0027t Help Falling In Love",
+                          "artist":  "Elvis Presley",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-07-can-t-help-falling-in-love-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-07-can-t-help-falling-in-love-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-07-can-t-help-falling-in-love-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-07-can-t-help-falling-in-love-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-07-can-t-help-falling-in-love-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "11c4b631-7c9b-4a2b-9273-d3eb1020251a",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Can\u0027t%20Help%20Falling%20In%20Love%20Elvis%20Presley",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Can\u0027t%20Help%20Falling%20In%20Love%20Elvis%20Presley",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "07:26",
+                          "name":  "You Raise Me Up",
+                          "artist":  "Secret Garden",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-08-you-raise-me-up-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-08-you-raise-me-up-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-08-you-raise-me-up-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-08-you-raise-me-up-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-08-you-raise-me-up-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "14119119-169c-4186-8aba-6822cca960b5",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=You%20Raise%20Me%20Up%20Secret%20Garden",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/You%20Raise%20Me%20Up%20Secret%20Garden",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "07:55",
+                          "name":  "It\u0027s Raining Men",
+                          "artist":  "The Weather Girls",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-09-it-s-raining-men-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-09-it-s-raining-men-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-09-it-s-raining-men-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-09-it-s-raining-men-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-09-it-s-raining-men-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "f7b7f3b2-b4bd-4c7f-b5ee-05eec2cb83b6",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=It\u0027s%20Raining%20Men%20The%20Weather%20Girls",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/It\u0027s%20Raining%20Men%20The%20Weather%20Girls",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "08:27",
+                          "name":  "Baila (Sexy Thing)",
+                          "artist":  "Zucchero",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-10-baila-sexy-thing-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-10-baila-sexy-thing-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-10-baila-sexy-thing-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-10-baila-sexy-thing-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-10-baila-sexy-thing-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "3d23fe2b-d8f4-4f79-8c8f-1554225fdf28",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Baila%20(Sexy%20Thing)%20Zucchero",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Baila%20(Sexy%20Thing)%20Zucchero",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      },
+                      {
+                          "start":  "09:12",
+                          "name":  "Ma Chérie",
+                          "artist":  "DJ Antoine feat. The Beat Shakers",
+                          "audio_samples":  [
+                                                {
+                                                    "voice":  "choir",
+                                                    "file":  "audio_samples/medley-5-11-ma-cherie-choir.m4a"
+                                                },
+                                                {
+                                                    "voice":  "me",
+                                                    "file":  "audio_samples/medley-5-11-ma-cherie-me.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_hi",
+                                                    "file":  "audio_samples/medley-5-11-ma-cherie-wo-hi.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_lo",
+                                                    "file":  "audio_samples/medley-5-11-ma-cherie-wo-lo.m4a"
+                                                },
+                                                {
+                                                    "voice":  "wo_mi",
+                                                    "file":  "audio_samples/medley-5-11-ma-cherie-wo-mi.m4a"
+                                                }
+                                            ],
+                          "id":  "49e6db68-e500-44f2-af4b-bb5f9cace181",
+                          "links":  [
+                                        {
+                                            "url":  "https://www.youtube.com/results?search_query=Ma%20Ch%C3%83%C2%A9rie%20DJ%20Antoine%20feat.%20The%20Beat%20Shakers",
+                                            "provider":  "youtube"
+                                        },
+                                        {
+                                            "url":  "https://open.spotify.com/search/Ma%20Ch%C3%83%C2%A9rie%20DJ%20Antoine%20feat.%20The%20Beat%20Shakers",
+                                            "provider":  "spotify"
+                                        }
+                                    ]
+                      }
+                  ]
+    }
+]
+

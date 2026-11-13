@@ -21,3 +21,12 @@ header{padding-top:40px}header h1{padding-right:55px;margin-top:0}@media(max-wid
 .ranking-button{top:40px}@media(max-width:700px){.ranking-button{top:32px}}
 .ranking-button{top:50px}header{padding-bottom:20px}header p:last-child{margin-bottom:0}@media(max-width:700px){.ranking-button{top:42px}header{padding-bottom:20px}}
 .name-section p{margin-bottom:0}.controls{padding-top:16px}
+.reaction[aria-pressed=true]{background:#a8c9ad;border-color:#50795a}.rockets{display:flex;gap:4px}.rocket{padding:8px 6px;line-height:1.3}.rocket[aria-pressed=true]{background:#50795a;color:white}.actions{flex-wrap:wrap;justify-content:flex-end}@media(max-width:450px){.actions{align-items:flex-end}}
+.weight-notice{position:fixed;z-index:10;left:50%;top:16px;transform:translateX(-50%);width:min(520px,calc(100% - 32px));padding:14px 18px;border-radius:10px;background:#365a40;color:white;box-shadow:0 5px 20px #0003;font-size:14px;line-height:1.45}.weight-notice[hidden]{display:none}
+.actions{flex-direction:column;align-items:flex-end}
+.voices{border-top:0;margin-top:14px;padding-top:0}.song-links{display:inline-flex;gap:6px;border:0;margin:0;padding:0;align-items:center}.voices-expanded .song-links{grid-column:1;grid-row:1;justify-self:start;margin-left:96px}
+.voices-expanded .voice:first-child{grid-row:1}.voices-expanded .song-links{grid-row:1}
+main{padding-left:24px;padding-right:24px}@media(max-width:700px){main{padding-left:12px;padding-right:12px}}
+.card h2{font-size:22px}
+.reaction{font-size:14px;line-height:1.3;padding:8px 6px}
+dialog{position:fixed}.modal-x{position:absolute;top:12px;right:12px;display:flex;align-items:center;justify-content:center;width:36px;height:36px;border:0;border-radius:50%;background:#f4f7f2;color:#3e6248;font-size:18px;cursor:pointer}.modal-x:focus-visible{outline:2px solid #50795a;outline-offset:2px}dialog h2{padding-right:35px}

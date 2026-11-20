@@ -1,5 +1,5 @@
 function newId(){const bytes=crypto.getRandomValues(new Uint8Array(16));bytes[6]=(bytes[6]&15)|64;bytes[8]=(bytes[8]&63)|128;const hex=Array.from(bytes,b=>b.toString(16).padStart(2,'0')).join('');return `${hex.slice(0,8)}-${hex.slice(8,12)}-${hex.slice(12,16)}-${hex.slice(16,20)}-${hex.slice(20)}`;}
-const labels={choir:'Chor',me:'Männer',wo_lo:'Frauen · Tief',wo_mi:'Frauen · Mittel',wo_hi:'Frauen · Hoch'};
+const labels={choir:'Chor',me:'Männer',me_hi:'Männer · Hoch',me_lo:'Männer · Tief',wo_lo:'Frauen · Tief',wo_mi:'Frauen · Mittel',wo_hi:'Frauen · Hoch'};
 async function init(){
  const inventory=await fetch('song_inventory.json?v=2', {cache:'no-cache'}).then(r=>{if(!r.ok)throw Error();return r.json()});
  const voiceOrder=['choir','wo_hi','wo_mi','wo_lo','me','me_hi','me_lo'];
